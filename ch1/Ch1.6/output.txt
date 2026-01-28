@@ -1,0 +1,5 @@
+0.80s     126 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+0.80s is the total time elapsed
+0.70s     126 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+0.70s is the total time elapsed
+0.81s     126 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
